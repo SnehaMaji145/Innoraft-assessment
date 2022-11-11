@@ -152,7 +152,7 @@ p{
 .m{
     background-color: white;
     height: 37px;
-    width: 64.9%;
+    width: 64.85%;
     margin-left: 265px;
 }
 h1{
@@ -163,27 +163,4 @@ h1{
 .i p{
     width: 80%;
 
-}
-.n{
-    background-color: rgb(255, 255, 255);
-    width: 60%;
-    height: 500px;
-    margin-left: 265px;
-    padding: 35px;
-    border: 1px ;
-    display: flex;
-}
-#body1{
-    background-color: rgb(165, 159, 159);
-    width: 1000px;
-    height: 150px;
-    margin: 0px;
-    padding: 0px;
-}
-#body2{
-    background-color: rgb(50, 121, 244);
-    width: 1000px;
-    height: 300px;
-    margin: 0px;
-    padding: 0px;
 }
