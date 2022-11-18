@@ -19,6 +19,7 @@ body{
     margin: 0px;
     padding: 0px;
     bottom: 100px;
+    position:static;
 }
 #logo{
     height: 50px;
@@ -54,17 +55,20 @@ body{
 }
 .heading{
     position: absolute;
-    top:17%;
+    top:8%;
     text-align: center;
     margin-left: 32%;
-    color:white;
+    color:gray;
     font-size: 50px;
+}
+.bold{
+    color: white;
 }
 .img::after{
     content: "";
     display: block;
     width: 100%;
-    height: 46%;
+    height: 18.2%;
     background-color: rgb(8, 20, 49);
     position: absolute;
     top:90px;
@@ -73,7 +77,7 @@ body{
 }
 .heading2{
     position: absolute;
-    top: 32%;
+    top: 13%;
     text-align: center;
     margin-left: 42%;
     color:white;
@@ -105,7 +109,7 @@ body{
     background-color: rgb(255, 255, 255);
     width: 80%;
     height: 500px;
-    margin-left: 100px;
+    margin: 100px;
     display: flex;
     margin-top: 100px;
 }
@@ -114,9 +118,10 @@ body{
    color: rgb(157, 148, 148);
 }
 .text1 img{
-    height: 400px;
+    height: 450px;
     width: 600px;
     margin-left: 200px;
+    margin-top: 50px;
 }
 .head{
     font-size: 50px;
@@ -126,4 +131,167 @@ body{
     margin-left: 20px;
     font-weight: bold;
     color: black;
+}
+.body4{
+   background: linear-gradient(rgba(8, 20, 49,0.9),rgba(14, 26, 83, 0.8)), url(./images/img-2.jpg);
+    /*background-image: url(./images/img-3.jpg);*/
+    height: 800px;   
+}
+.head1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.body4 h1{
+    color: rgb(220, 216, 216);
+    font-size: 50px;
+   
+}
+.bold{
+    color: white;
+}
+.sec{
+    float: left;
+    display: flex;
+    width: 1200px;
+    margin-left: 140px;
+}
+.one{
+margin:20px;
+text-align: center; 
+}
+.one p{
+    color: white;
+    font-size: 20px;
+}
+.one a{
+    color: rgb(220, 216, 216);
+}
+.one img{
+    width: 120px;
+    height: 120px;
+    border: 0px;
+    border-radius: 90%;
+}
+.foot{
+    text-align: center;
+}
+.foot button{
+    width: 250px;
+    height: 60px;
+    border: 1px solid rgb(227, 187, 30);
+    border-radius: 50px;
+    margin-top: 150px;
+    font-size: large;
+    color: white;
+    background-color: rgb(227, 187, 30);
+}
+.body5{
+    margin: 100px;
+}
+.a{
+    color: rgba(8, 20, 49);
+    font-weight: bold;
+}
+.body5 p{
+    color:rgb(85, 81, 81) ;
+    font-size: 30px;
+}
+#a{
+    font-size: medium;
+}
+.b{
+    float: left;
+    display: flex;
+    width: 1200px;
+    margin-left: -20px;
+}
+.c{
+    margin:20px;
+    
+}
+.c p{
+    font-size: small;
+}
+#c{
+    width: 80px;
+    height: 60px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(207, 204, 204);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.d{
+    float: left;
+    display: flex;
+    width: 1200px;
+    margin-left: -20px;
+}
+.d img{
+    height: 200px;
+    width: 150px;
+    margin: 20px;
+}
+.e img{
+    height: 440px;
+    width: 400px;
+}
+.f img{
+    height: 200px;
+    width: 400px;
+}
+.g{
+    float: left;
+    display: flex;
+    margin-left: 100px;
+    margin-top: -25px;
+}
+.g .f{
+    margin-left: 340px;
+    margin-top: -198px;
+}
+.g .e{
+    margin-top: -198px;
+    margin-left: 40px;
+}
+.h{
+    float: left;
+    display: flex;
+}
+.h img{
+    margin-top: -200px;
+}
+#f{
+    margin-left: 40px;
+}
+.image::after{
+    content: "";
+    display: block;
+    width: 25%;
+    height: 5%;
+    background-color: rgb(8, 20, 49);
+    position: absolute;
+    top:2637.5px;
+    left: 37.75%;
+    opacity: 0.9;
+}
+.f p{
+    position: absolute;
+    margin-top: -180px;
+    color: white;
+    margin-left: 140px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.f .k{
+    width: 30px;
+    height: 30px;
+    border: 1px solid rgb(227, 187, 30);;
+    border-radius: 50%;
+    background-color: rgb(227, 187, 30);;
 }
