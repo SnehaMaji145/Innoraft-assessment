@@ -1,0 +1,257 @@
+body{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.head3{
+    height: 600px;
+    width: 1000px;
+    background-color: white;
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 30px;
+}
+.seven{
+    height: 60%;
+    width: 100%;  
+}
+.seven1,.seven2{
+    height: 100%;
+    float: left;
+}
+.seven1{
+    width: 60%;
+    background-color: rgb(230, 11, 11);
+}
+.seven2{
+    width: 40%;
+    background-image: url(./images/img-14.png);
+}
+.eight{
+    height: 40%;
+    width: 99.999%;
+    background-color: rgb(147, 4, 4);
+}
+.ei{
+    height: 100%;
+    width: 33%;
+    float: left;
+    border-left: 10px solid rgb(230, 11, 11);
+}
+.ei1{
+    height: 100%;
+    width: 30%;
+    float: left;
+}
+.eight1 h4,.eight2 h4,.eight3 h4{
+    margin-left: 20px;
+    color: white;
+    margin-top: 30px;
+}
+.eight1 p,.eight2 p,.eight3 p{
+    font-size: small;
+    margin: 20px 20px;
+    color: white;
+}
+.mainhead{
+    margin-top: 80px;
+    color: white;
+}
+.mainhead2{
+    margin-top: 20px;
+    color: white;
+}
+.head{
+    height: 100%;
+    width: 75%;
+    margin-left: 50px;
+}
+.header{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 30px;
+}
+.one{
+    height: 10%;
+    width: 100%;
+    background-color: rgb(220, 218, 218);
+}
+.one1,.one2{
+    float: left;
+    height: 100%;
+    
+}
+.one1{
+    width: 70%;
+}
+.one2{
+    margin-top: 15px;
+    width: 30%;
+}
+.one2 p{
+    float: left;
+    margin: 10px;
+    font-size: medium;
+    color: blue;
+}
+.one1 img{
+    height: 100%;
+    width: 100px;
+    margin-left: 100px;
+}
+.block{
+    width: 70px;
+    height: 20px;
+    border: 1px solid black;
+    background-color: black;
+    text-align: center;
+    
+}
+.block2 p{
+    color: white;
+
+}
+.two{
+    height: 30%;
+    width: 100%;
+    background-color: aqua;
+}
+.two1,.two2,.two3{
+    float: left;
+}
+.two1 img{
+height: 40px;
+width: 40px;
+margin-top: 50px;
+margin-left: 30%;
+}
+.two3 img{
+    height: 40px;
+    width: 40px;
+    margin-top: 50px;
+    margin-left: 60%;
+    }
+.two1,.two3{
+    height: 100%;
+    width: 30%;
+    bottom: -10%;
+}
+.two2{
+    width: 40%;
+    height: 100%;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.two11{
+    height: 100%;
+    width: 100%;
+}
+.three{
+    height: 50%;
+    width: 100%;
+    padding: 10px 0px 10px 0px;
+}
+.three1{
+    height: 100%;
+    width: 80%;
+    margin-left: 10%;
+    
+}
+.three11,.three12{
+    float: left;
+}
+.three11{
+    height: 100%;
+    width: 40%;
+    background-color: rgb(251, 251, 130);
+    margin-top: -5px;
+    margin-left: -10px;
+}
+.three12{
+    height: 100%;
+    width: 60%;
+    margin-top: -15px;
+    margin-left: 10px;
+}
+.three121{
+    height: 58%;
+    width: 100%;
+    background-color: rgb(246, 157, 49);
+}
+.three122{
+    height: 38.5%;
+    width: 100%;
+    margin-top: 10px;
+}
+.three1221{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(93, 226, 93);
+}
+.three111{
+    height: 75%;
+    width: 60%;
+    background-color: rgb(191, 147, 232);
+    margin-top: 20px;
+    margin-left: -40px;
+}
+.four{
+    height: 10%;
+    width: 100%;
+    background-color: rgb(25, 81, 92);
+}
+.box{
+    height: 25px;
+    width: 400px;
+    border: 1px solid white;
+    position:relative;
+    top: 10%;
+    left: 5%;
+    background-color: rgb(255, 196, 86);
+    margin: 10px;
+}
+.box2{
+    height: 25px;
+    width: 402px;
+    border: 1px solid white;
+    position:relative;
+    top: 5%;
+    left: 5%;
+    background-color: rgb(255, 196, 86);
+    margin: 10px;
+}
+#box{
+    width: 90px;
+    height: 30px;
+    border: 1px solid white;
+    background-color: rgb(255, 196, 86);
+    top: -1%;
+}
+.box h3{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin: 4px;
+}
+.box a{
+    text-decoration: none;
+}
+.four p{
+    float: left;
+    margin: 10px;
+    font-size: small;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 25%;
+    left: 38%;
+}
